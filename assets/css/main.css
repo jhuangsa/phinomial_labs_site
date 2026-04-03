@@ -1664,19 +1664,11 @@ input, select, textarea {
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			overflow: hidden;
-		  }
-		  
-		  #header .logo .site-logo {
-			display: block;
-			width: 5rem;
-			height: 5rem;
-			max-width: 100%;
-			max-height: 100%;
-			object-fit: contain;
-			flex: 0 0 auto;
 		  }
 
-		  #header .logo {
-			border: none;
+		  #header .logo .site-logo {
+			display: block;
+			width: 3.5rem;
+			height: 3.5rem;
+			object-fit: contain;
 		  }
