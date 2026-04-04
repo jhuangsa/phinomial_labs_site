@@ -1660,16 +1660,3 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		#header .logo {
-			display: flex;
-			align-items: center;
-			justify-content: center;
-		  }
-
-		  #header .logo .site-logo {
-			display: block;
-			width: 5.5rem;
-			height: 5.5rem;
-			object-fit: cover;
-			border-radius: 100%;
-		  }
