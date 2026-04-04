@@ -1335,6 +1335,16 @@ input, select, textarea {
 				line-height: 2;
 			}
 
+			#header .content p.hero-lede {
+				text-transform: none;
+				letter-spacing: 0.08rem;
+				font-size: 0.85rem;
+				line-height: 1.75;
+				max-width: 38rem;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
 		#header nav ul {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -1550,6 +1560,15 @@ input, select, textarea {
 			border-radius: 4px;
 			opacity: 0;
 		}
+
+			#main article h3.contact-subhead {
+				color: rgba(255, 255, 255, 0.85);
+				font-size: 0.85rem;
+				font-weight: 600;
+				letter-spacing: 0.2rem;
+				line-height: 1.5;
+				margin: -0.5rem 0 1.25rem 0;
+			}
 
 			#main article.active {
 				-moz-transform: translateY(0);
