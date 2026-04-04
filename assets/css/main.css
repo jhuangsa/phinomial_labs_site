@@ -1670,5 +1670,6 @@ input, select, textarea {
 			display: block;
 			width: 5.5rem;
 			height: 5.5rem;
-			object-fit: contain;
+			object-fit: cover;
+			border-radius: 100%;
 		  }
